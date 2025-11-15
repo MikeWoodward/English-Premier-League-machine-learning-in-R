@@ -1,4 +1,4 @@
-# HarvardX-PH125.9x-EPL
+# Machine learning for English Premier League - HarvardX-PH125.9x-EPL
 Machine learning models of English Premiership results.
 Submitted as part of requirements for ed-x course HarvardX-PH125.9x.
 
