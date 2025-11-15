@@ -1,6 +1,6 @@
 # HarvardX-PH125.9x-EPL
 Machine learning models of English Premiership results.
-Submitted as part of requirements for Edx course HarvardX-PH125.9x.
+Submitted as part of requirements for ed-x course HarvardX-PH125.9x.
 
 There are several ways to 'run' this project. If you want to generate the PDF for yourself from the Rmd file, you can either run the entire project from scratch or download data from Github.
 
